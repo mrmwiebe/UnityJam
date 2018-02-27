@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Wiggles a sprite side to side like a stop motion animation.
+/// </summary>
 public class Wiggle : MonoBehaviour {
 
     public float rotAmnt = 2;
